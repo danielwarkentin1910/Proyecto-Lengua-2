@@ -6,7 +6,7 @@ Sitio estático para GitHub Pages, con secciones de Lengua Castellana e Idioma G
 1. Descomprimí el archivo ZIP.
 2. Entrá al repositorio `neery-proyectos`.
 3. Elegí **Add file → Upload files**.
-4. Subí el contenido de esta carpeta (no la carpeta contenedora): `index.html`, `styles.css`, `script.js`, `subpages.css`, páginas HTML, y la carpeta `documentos`.
+4. Subí el contenido de esta carpeta (no la carpeta contenedora): `index.html`, `styles.css`, `script.js`, `subpages.css`, páginas HTML, y todos los PDF y DOCX (sueltos, sin carpetas).
 5. Confirmá con **Commit changes**.
 6. Abrí **Settings → Pages**.
 7. En **Build and deployment**, elegí **Deploy from a branch**; branch `main`, folder `/(root)`, y guardá.
